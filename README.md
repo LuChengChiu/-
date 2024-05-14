@@ -4,4 +4,4 @@
 
 - React.js
 - Tailwind CSS
-- POST CSS
+- PostCSS
